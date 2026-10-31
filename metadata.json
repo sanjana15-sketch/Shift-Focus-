@@ -1,0 +1,8 @@
+{
+  "name": "TrustLens - Defensive Scam & Threat Intelligence Guardian",
+  "description": "Privacy-conscious defensive assistant detecting suspicious messages, explaining scam indicators, guiding safe verification, with real-time threat alerts and secure threat database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
